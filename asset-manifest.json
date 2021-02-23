@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Synth/static/css/main.deb86336.chunk.css",
+    "main.js": "/React-Simple-Synth/static/js/main.6ce32368.chunk.js",
+    "main.js.map": "/React-Simple-Synth/static/js/main.6ce32368.chunk.js.map",
+    "runtime-main.js": "/React-Simple-Synth/static/js/runtime-main.0e96c774.js",
+    "runtime-main.js.map": "/React-Simple-Synth/static/js/runtime-main.0e96c774.js.map",
+    "static/js/2.6b5b9825.chunk.js": "/React-Simple-Synth/static/js/2.6b5b9825.chunk.js",
+    "static/js/2.6b5b9825.chunk.js.map": "/React-Simple-Synth/static/js/2.6b5b9825.chunk.js.map",
+    "static/js/3.de234c19.chunk.js": "/React-Simple-Synth/static/js/3.de234c19.chunk.js",
+    "static/js/3.de234c19.chunk.js.map": "/React-Simple-Synth/static/js/3.de234c19.chunk.js.map",
+    "index.html": "/React-Simple-Synth/index.html",
+    "static/css/main.deb86336.chunk.css.map": "/React-Simple-Synth/static/css/main.deb86336.chunk.css.map",
+    "static/js/2.6b5b9825.chunk.js.LICENSE.txt": "/React-Simple-Synth/static/js/2.6b5b9825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e96c774.js",
+    "static/js/2.6b5b9825.chunk.js",
+    "static/css/main.deb86336.chunk.css",
+    "static/js/main.6ce32368.chunk.js"
+  ]
+}
