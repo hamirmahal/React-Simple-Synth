@@ -91,7 +91,7 @@
 
 .NonAccidentalLabel {
   font-size: 3vh;
-  opacity: 50%; /* Have less emphasis for labels on non-accidental keys. */
+  opacity: .5; /* Have less emphasis for labels on non-accidental keys. */
   position: relative; /* This is necessary to position labels at the bottom of keys. */
   top: 80%; /* Accidentals hide labels if the labels aren't far enough from the top. */
 }
