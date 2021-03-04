@@ -53,6 +53,7 @@
   cursor: pointer; /* Let users know accidental keys are clickable! */
   font-size: 2vh;
   height: 75%; /* Sharp and flat keys traditionally don't extend the full length. */
+  touch-action: none; /* Disable horizontal scrolling when pressing keys on tablet. */
   width: 4vh; /* Each key should at least be wide enough to fit its text. */
 }
 
@@ -80,6 +81,7 @@
   color: black; /* We want to be able to see text. */
   cursor: pointer; /* Let users know non-accidental keys are clickable! */
   text-align: center;
+  touch-action: none; /* Disable horizontal scrolling when pressing keys on tablet. */
   width: 5vmin; /* Give the keys plenty of width. */
 }
 

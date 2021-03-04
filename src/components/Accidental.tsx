@@ -14,6 +14,9 @@ function Accidental(
         <div
             className={`Accidental ${pitch}`}
             id={`${pitch}${octave}`} // Need this to style notes that are playing
+            // Pressing and holding a note on a touchscreen shouldn't open the
+            // right-click menu!
+            onContextMenu={(mouseEvnt: React.MouseEvent) => mouseEvnt.preventDefault()}
             onMouseDown={({buttons}: {buttons: number}) =>
                 handleMouseDownAndOver(buttons, frequency, octave, pitch)}
             onMouseLeave={() => stopTone(octave, pitch)}
