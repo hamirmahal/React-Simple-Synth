@@ -1,3 +1,5 @@
+You can find a live demonstration of this repository at https://hamirmahal.github.io/React-Simple-Synth/.
+
 This is a React version of the [simple synthesizer I made using plain JavaScript, HTML, and CSS](https://github.com/hamirmahal/simple-synth).
 
 [That synthesizer](https://github.com/hamirmahal/simple-synth) used https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth as its foundation.
